@@ -1,0 +1,24 @@
+{
+  "name": "mysofa.js",
+  "version": "0.0.1",
+  "description": "a library to display HRTFs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoene/mysofa.js.git"
+  },
+  "keywords": [
+    "HRTF",
+    "spatial audio",
+    "libmysofa"
+  ],
+  "author": "Christian Hoene",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoene/mysofa.js"
+  },
+  "homepage": "https://github.com/hoene/mysofa.js"
+}
